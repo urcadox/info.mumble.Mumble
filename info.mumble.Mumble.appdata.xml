@@ -27,7 +27,7 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release type="development" date="2019-03-17" version="1.3.0-rc1"/>
+    <release type="development" date="2019-07-03" version="1.3.0-rc2"/>
   </releases>
   <provides>
     <binary>mumble</binary>
